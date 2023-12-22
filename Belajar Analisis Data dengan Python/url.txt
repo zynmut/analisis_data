@@ -1,0 +1,5 @@
+Link streamlit :
+https://stupid-nights-search.loca.lt/
+
+Link google colab :
+https://colab.research.google.com/drive/1Kl3gpwR86l-9GPVvkOhNCiCohaWa3dCy?usp=sharing
